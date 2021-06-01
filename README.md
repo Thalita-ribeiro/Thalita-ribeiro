@@ -19,3 +19,5 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/thalita-ribeiro/thalita-ribeiro/blob/output/github-contribution-grid-snake.svg)
 
 <a href="https://www.linkedin.com/in/thalita-ribeiro-040417188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ <img align="center" alt="Tha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
