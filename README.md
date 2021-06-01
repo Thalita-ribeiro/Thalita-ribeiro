@@ -1,4 +1,6 @@
-### Olá! Eu sou a Thalita Ribeiro <img align="center" alt="Tha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+## Olá! Eu sou a Thalita Ribeiro
+
+<img align="center" alt="Tha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 <!--
 **Thalita-ribeiro/Thalita-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
