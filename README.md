@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou a Thalita Ribeiro 
 
 <!--
 **Thalita-ribeiro/Thalita-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
