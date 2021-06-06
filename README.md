@@ -1,4 +1,4 @@
-## Olá! Eu sou a Thalita Ribeiro
+## Helo! I'm Thalita RIbeiro
 
 <img align="center" alt="Tha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
