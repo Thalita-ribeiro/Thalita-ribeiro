@@ -1,4 +1,5 @@
-## Helo! I'm Thalita RIbeiro
+## Helo! I'm Thalita RIbeiro 🚀
+
  
 <!--
 **Thalita-ribeiro/Thalita-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
