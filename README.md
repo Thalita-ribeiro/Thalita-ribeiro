@@ -1,7 +1,5 @@
 ## Helo! I'm Thalita RIbeiro
-
-<img align="center" alt="Tha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
+ 
 <!--
 **Thalita-ribeiro/Thalita-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thalita-ribeiro_icons=true&theme=radical)
+![Thalita GitHub stats](https://github-readme-stats.vercel.app/api?username=Thalita-ribeiro&theme=radical&show_icons=true)
 
-  ![Snake animation](https://github.com/thalita-ribeiro/thalita-ribeiro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thalita-ribeiro/thalita-ribeiro/blob/output/github-contribution-grid-snake.svg)
 
 <a href="https://www.linkedin.com/in/thalita-ribeiro-040417188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
