@@ -1,4 +1,4 @@
-## Helo! I'm Thalita RIbeiro 🚀
+## Oiii! Eu sou a Thalita RIbeiro 🚀
 
  
 <!--
