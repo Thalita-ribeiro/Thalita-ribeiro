@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Thalita GitHub stats](https://github-readme-stats.vercel.app/api?username=Thalita-ribeiro&theme=radical&show_icons=true)
-
 <div stle="display: inline_block"><br>
  <img align="center" alt"Tha-java" heigh= "70" width="70" src= https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
  <img align="right" alt"Tha-gif" heigh= "300" width="150" src= https://user-images.githubusercontent.com/57602792/127419316-d01ccc09-570c-4db3-af35-b1ad6ccb858c.gif
