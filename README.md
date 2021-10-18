@@ -1,35 +1,17 @@
 ## Oiii! Eu sou a Thalita RIbeiro 🚀
 
- 
-<!--
-**Thalita-ribeiro/Thalita-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=react&logoColor=white" />
+ <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<div stle="display: inline_block"><br>
- <img align="center" alt"Tha-java" heigh= "70" width="70" src= https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>
- <img align="right" alt"Tha-gif" heigh= "300" width="150" src= https://user-images.githubusercontent.com/57602792/127419316-d01ccc09-570c-4db3-af35-b1ad6ccb858c.gif
-</div>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-##
 
-<div>
-<a href="https://www.linkedin.com/in/thalita-ribeiro-040417188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.instagram.com/thalliribeiro/" target="_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
- <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-</div> 
-
-![Snake animation](https://github.com/thalita-ribeiro/thalita-ribeiro/blob/output/github-contribution-grid-snake.svg)
-
- 
- 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align="center">
+  <a href="https://github.com/hc-almeida">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hc-almeida&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hc-almeida&theme=nord" alt="mystreak"/>
+</p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
