@@ -12,6 +12,6 @@
 
 <p>
   <a href="https://github.com/hc-almeida">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hc-almeida&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=hc-almeida&theme=nord" alt="mystreak"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hc-almeida&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=hc-almeida&theme=nord" alt="mystreak"/>
 </p>
