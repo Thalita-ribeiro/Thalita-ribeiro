@@ -10,6 +10,11 @@
   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thalita-ribeiro&theme=react" alt="mystreak"/>
    
 </p>
+ 
+  <br>
+  <br>
+  <br>
+
 
 <h1 align="center">Contato</h1>
 <div align ="center">
