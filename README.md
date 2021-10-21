@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://github.com/Thalita-ribeiro">
-  <img height="129em" src="https://github-readme-stats.vercel.app/api?username=Thalita-ribeiro&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  <img height="129em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thalita-ribeiro&theme=react" alt="mystreak" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Thalita-ribeiro&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thalita-ribeiro&theme=react" alt="mystreak" />
 </p>
  
  
