@@ -6,12 +6,6 @@
 <br>
 <br>
 
-<p align="center">
-  <a href="https://github.com/-Thalita-ribeiro">
-  <img height="123em" src="https://github-readme-stats.vercel.app/api?username=Thalita-ribeiro&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  <img height="123em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thalita-ribeiro&theme=react" alt="mystreak" />
-</p>
-
  
   <br>
   <br>
@@ -26,5 +20,3 @@
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<br>
