@@ -1,7 +1,16 @@
 ## Olá! Eu sou a Thalita
-
- <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=java&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/-Postman-e36414?style=flat-square&logo=postman&logoColor=white" /> <img alt="Slack" src="https://img.shields.io/badge/-Slack-ba181b?style=flat-square&logo=slack&logoColor=white" /> <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-9d4edd?style=flat-square&logo=datadog&logoColor=white" /> <img alt="Github" src="https://img.shields.io/badge/-Github-0a0908?style=flat-square&logo=github&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/-Git-0a0908?style=flat-square&logo=git&logoColor=orange" /> 
-
+ 
+ ![Java](https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=java&logoColor=white)
+ ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+ ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+ ![Postman](https://img.shields.io/badge/-Postman-e36414?style=flat-square&logo=postman&logoColor=white) 
+ ![Slack](https://img.shields.io/badge/-Slack-ba181b?style=flat-square&logo=slack&logoColor=white)
+ ![Datadog](https://img.shields.io/badge/-Datadog-9d4edd?style=flat-square&logo=datadog&logoColor=white)
+ ![Github](https://img.shields.io/badge/-Github-0a0908?style=flat-square&logo=github&logoColor=white)
+ ![Git](https://img.shields.io/badge/-Git-0a0908?style=flat-square&logo=git&logoColor=orange)
+ ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
+ ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+  
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <br>
 <br>
