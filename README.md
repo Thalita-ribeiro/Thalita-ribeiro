@@ -8,7 +8,7 @@
       <p>
         <a href="https://www.linkedin.com/in/thalita-ribeiro-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-040417188/">LinkedIn</a>
         &nbsp;·&nbsp;
-        <a href="mailto:sribeiro.thalita@gmail.com">E-mail</a>
+        <a href="sribeiro.thalita@gmail.com">E-mail</a>
       </p>
       <p>✿ &nbsp; ───────── &nbsp; ✿</p>
     </td>
@@ -39,4 +39,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thalita-ribeiro&amp;theme=github_dark" alt="Painel de atividade do GitHub de Thalita Ribeiro" width="820" />
 </p>
 
-<p align="center"><small>🌸 &nbsp; <a href="mailto:sribeiro.thalita@gmail.com">Vamos conversar</a> &nbsp; 🌸</small></p>
+<p align="center"><small>🌸 &nbsp; <a href="sribeiro.thalita@gmail.com">Vamos conversar</a> &nbsp; 🌸</small></p>
