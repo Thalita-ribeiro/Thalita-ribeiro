@@ -1,61 +1,42 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, sou a Thalita!
+<table align="center">
+  <tr>
+    <td align="center" width="820">
+      <p>🌸 &nbsp; ✿ &nbsp; 🌸</p>
+      <h1>Thalita Ribeiro</h1>
+      <p><strong>Desenvolvedora de software no Itaú Unibanco</strong></p>
+      <p>Backend &nbsp;·&nbsp; Java &nbsp;·&nbsp; Spring Boot</p>
+      <p>
+        <a href="https://www.linkedin.com/in/thalita-ribeiro-040417188/">LinkedIn</a>
+        &nbsp;·&nbsp;
+        <a href="mailto:sribeiro.thalita@gmail.com">E-mail</a>
+      </p>
+      <p>✿ &nbsp; ───────── &nbsp; ✿</p>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=500&color=9D4EDD&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+Specialist;AWS+Cloud+Engineer;Docker+Enthusiast" alt="Typing SVG" />
-</div>
+<br />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thalita-ribeiro-040417188/"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/thalirib/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:sribeiro.thalita@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<h2>Sobre mim</h2>
+
+<p>Sou desenvolvedora de software no <strong>Itaú Unibanco</strong>. Trabalho com desenvolvimento backend e tenho interesse em APIs REST, organização de código e integração de aplicações.</p>
+
+<h2>Tecnologias e ferramentas</h2>
+
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-70556F?style=flat-square&amp;logo=openjdk&amp;logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-70556F?style=flat-square&amp;logo=springboot&amp;logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-70556F?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-70556F?style=flat-square&amp;logo=docker&amp;logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-70556F?style=flat-square&amp;logo=amazonaws&amp;logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-70556F?style=flat-square&amp;logo=git&amp;logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-70556F?style=flat-square&amp;logo=postman&amp;logoColor=white" />
 </p>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"> Tecnologias & Ferramentas
-
-<div align="center">
-  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
-  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-  ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-  
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
+<h2>Meu GitHub</h2>
 
 <p align="center">
-  <a href="https://github.com/Thalita-ribeiro">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thalita-ribeiro&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thalita-ribeiro&theme=aura&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thalita-ribeiro&amp;theme=github_dark" alt="Painel de atividade do GitHub de Thalita Ribeiro" width="820" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Thalita-ribeiro">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thalita-ribeiro&theme=aura_dark&hide_border=true" alt="Thalita's GitHub Stats Graph"/>
-  </a>
-</p>
-
-## 🚀 O que estou fazendo
-
-- 💻 Desenvolvendo soluções backend com Java e Spring
-- ☁️ Trabalhando com serviços AWS (EC2, S3, RDS)
-- 🐳 Aperfeiçoando meus conhecimentos em Docker e containers
-- 📊 Monitorando aplicações com Grafana e Datadog
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thalita-ribeiro&color=9D4EDD&style=for-the-badge" alt="Profile Views"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=120&section=footer" width="100%"/>
+<p align="center"><small>🌸 &nbsp; <a href="mailto:sribeiro.thalita@gmail.com">Vamos conversar</a> &nbsp; 🌸</small></p>
