@@ -8,7 +8,7 @@
       <p>
         <a href="https://www.linkedin.com/in/thalita-ribeiro-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-040417188/">LinkedIn</a>
         &nbsp;·&nbsp;
-        <a href="sribeiro.thalita@gmail.com">E-mail</a>
+        <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=sribeiro.thalita%40gmail.com">Enviar e-mail</a>
       </p>
       <p>✿ &nbsp; ───────── &nbsp; ✿</p>
     </td>
@@ -33,10 +33,29 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-70556F?style=flat-square&amp;logo=postman&amp;logoColor=white" />
 </p>
 
+<h2>🌸 Jogo rápido: encontre a flor dourada</h2>
+
+<p>Passe o mouse pelos canteiros para ver as flores. Clique para descobrir o que cada uma esconde e tente encontrar a flor dourada em até três escolhas. No celular, toque para abrir.</p>
+
+<table align="center">
+  <tr>
+    <td width="180" align="center"><details><summary title="🌷">🌱 Canteiro 1</summary><p>🌿 Só folhas. Escolha outra!</p></details></td>
+    <td width="180" align="center"><details><summary title="🌸">🌱 Canteiro 2</summary><p>🐝 Uma abelha passou por aqui. Tente de novo!</p></details></td>
+    <td width="180" align="center"><details><summary title="🌼">🌱 Canteiro 3</summary><p>🌱 Uma mudinha. Continue procurando!</p></details></td>
+  </tr>
+  <tr>
+    <td width="180" align="center"><details><summary title="🌻">🌱 Canteiro 4</summary><p>🦋 Uma borboleta. Quase lá!</p></details></td>
+    <td width="180" align="center"><details><summary title="🪻">🌱 Canteiro 5</summary><p>✨ Você encontrou a flor dourada! ✨</p></details></td>
+    <td width="180" align="center"><details><summary title="🌺">🌱 Canteiro 6</summary><p>🍃 O vento levou as pétalas. Escolha outra!</p></details></td>
+  </tr>
+</table>
+
+<p><small>Para jogar de novo, feche as flores que você abriu.</small></p>
+
 <h2>Meu GitHub</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thalita-ribeiro&amp;theme=github_dark" alt="Painel de atividade do GitHub de Thalita Ribeiro" width="820" />
 </p>
 
-<p align="center"><small>🌸 &nbsp; <a href="sribeiro.thalita@gmail.com">Vamos conversar</a> &nbsp; 🌸</small></p>
+<p align="center"><small>🌸 &nbsp; Contato: sribeiro.thalita@gmail.com &nbsp; 🌸</small></p>
