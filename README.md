@@ -6,7 +6,7 @@
       <p><strong>Desenvolvedora de software no Itaú Unibanco</strong></p>
       <p>Backend &nbsp;·&nbsp; Java &nbsp;·&nbsp; Spring Boot</p>
       <p>
-        <a href="https://www.linkedin.com/in/thalita-ribeiro-040417188/">LinkedIn</a>
+        <a href="https://br.linkedin.com/in/thalita-ribeiro-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-040417188">LinkedIn</a>
         &nbsp;·&nbsp;
         <a href="mailto:sribeiro.thalita@gmail.com">E-mail</a>
       </p>
